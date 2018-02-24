@@ -1,0 +1,92 @@
+фев 21, 2018 12:45:45 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 12:46:12 AM com.company.Main main
+INFO: 1.6% --> 0
+фев 21, 2018 12:47:13 AM com.company.Main main
+INFO: 1.6% --> 0
+фев 21, 2018 12:47:39 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 12:52:57 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 12:53:18 AM com.company.Main main
+INFO: 1.6% --> 16384
+фев 21, 2018 12:53:30 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 12:54:02 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 12:54:19 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 12:54:23 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 12:54:43 AM com.company.Main main
+INFO: 1.6% --> 16384
+фев 21, 2018 12:55:02 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 12:55:08 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:06:25 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:07:08 AM com.company.Main main
+INFO: 1.6% --> 16384
+фев 21, 2018 9:08:28 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:09:45 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:10:14 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:10:57 AM com.company.Main main
+INFO: 1.6% --> 16384
+фев 21, 2018 9:13:41 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:14:34 AM com.company.Main lambda$main$0
+WARNING: 00000000000000000001  00000000000000000000
+Matrix [x1=Complex [x=10881, y=12173], x2=Complex [x=7354, y=10296], x3=Complex [x=15, y=1486], x4=Complex [x=15064, y=9737]]
+Matrix [x1=Complex [x=5531, y=6986], x2=Complex [x=2751, y=8078], x3=Complex [x=2751, y=8078], x4=Complex [x=7456, y=16191]]
+фев 21, 2018 9:14:34 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:14:36 AM com.company.Main lambda$main$0
+WARNING: 00000000000000000000  00000000000000000001
+Matrix [x1=Complex [x=5531, y=6986], x2=Complex [x=2751, y=8078], x3=Complex [x=2751, y=8078], x4=Complex [x=7456, y=16191]]
+Matrix [x1=Complex [x=5531, y=6986], x2=Complex [x=8282, y=15064], x3=Complex [x=2751, y=8078], x4=Complex [x=10207, y=7462]]
+фев 21, 2018 9:14:36 AM com.company.Main lambda$main$0
+WARNING: 00000000000000000001  00000000000000000001
+Matrix [x1=Complex [x=10881, y=12173], x2=Complex [x=7354, y=10296], x3=Complex [x=15, y=1486], x4=Complex [x=15064, y=9737]]
+Matrix [x1=Complex [x=5531, y=6986], x2=Complex [x=8282, y=15064], x3=Complex [x=2751, y=8078], x4=Complex [x=10207, y=7462]]
+фев 21, 2018 9:15:43 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:17:19 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:17:19 AM com.company.Main lambda$main$1
+WARNING: 00000000000000010000  00000000000000000001
+Matrix [x1=Complex [x=5531, y=6986], x2=Complex [x=8282, y=15064], x3=Complex [x=2751, y=8078], x4=Complex [x=10207, y=7462]]
+Matrix [x1=Complex [x=5531, y=6986], x2=Complex [x=8282, y=15064], x3=Complex [x=2751, y=8078], x4=Complex [x=10207, y=7462]]
+фев 21, 2018 9:17:58 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:22:05 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:22:05 AM com.company.Main lambda$main$1
+WARNING: 00000000000000000001  00000000000000000001
+Matrix [x1=Complex [x=16579, y=8759], x2=Complex [x=13679, y=15922], x3=Complex [x=13963, y=12903], x4=Complex [x=13122, y=1785]]
+Matrix [x1=Complex [x=2, y=3], x2=Complex [x=3, y=3], x3=Complex [x=1, y=0], x4=Complex [x=1, y=0]]
+фев 21, 2018 9:22:05 AM com.company.Main lambda$main$1
+WARNING: 00000000000000010000  00000000000000010000
+Matrix [x1=Complex [x=5531, y=6986], x2=Complex [x=8282, y=15064], x3=Complex [x=2751, y=8078], x4=Complex [x=10207, y=7462]]
+Matrix [x1=Complex [x=16622, y=16159], x2=Complex [x=16630, y=16735], x3=Complex [x=16632, y=16738], x4=Complex [x=16761, y=27]]
+фев 21, 2018 9:50:32 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:50:53 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:51:24 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:52:25 AM com.company.Main main
+INFO: 1.5% --> 16384
+фев 21, 2018 9:58:37 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 9:59:39 AM com.company.Main main
+INFO: 1.5625% --> 16384
+фев 21, 2018 10:00:57 AM com.company.Main main
+INFO: 3.125% --> 32768
+фев 21, 2018 10:01:38 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 10:02:40 AM com.company.Main main
+INFO: 1.5625% --> 16384

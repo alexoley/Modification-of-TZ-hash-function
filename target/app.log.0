@@ -1,0 +1,130 @@
+фев 21, 2018 1:00:59 AM com.company.Main main
+INFO: 0.0% --> 0
+фев 21, 2018 1:01:42 AM com.company.Main main
+INFO: 1.6% --> 16384
+фев 21, 2018 1:02:36 AM com.company.Main main
+INFO: 3.2% --> 32768
+фев 21, 2018 1:03:44 AM com.company.Main main
+INFO: 4.800000000000001% --> 49152
+фев 21, 2018 1:05:04 AM com.company.Main main
+INFO: 6.4% --> 65536
+фев 21, 2018 1:06:35 AM com.company.Main main
+INFO: 8.0% --> 81920
+фев 21, 2018 1:08:17 AM com.company.Main main
+INFO: 9.600000000000001% --> 98304
+фев 21, 2018 1:10:17 AM com.company.Main main
+INFO: 11.200000000000001% --> 114688
+фев 21, 2018 1:12:28 AM com.company.Main main
+INFO: 12.8% --> 131072
+фев 21, 2018 1:14:49 AM com.company.Main main
+INFO: 14.4% --> 147456
+фев 21, 2018 1:17:22 AM com.company.Main main
+INFO: 16.0% --> 163840
+фев 21, 2018 1:20:06 AM com.company.Main main
+INFO: 17.6% --> 180224
+фев 21, 2018 1:23:02 AM com.company.Main main
+INFO: 19.200000000000003% --> 196608
+фев 21, 2018 1:26:19 AM com.company.Main main
+INFO: 20.8% --> 212992
+фев 21, 2018 1:29:48 AM com.company.Main main
+INFO: 22.400000000000002% --> 229376
+фев 21, 2018 1:33:27 AM com.company.Main main
+INFO: 24.0% --> 245760
+фев 21, 2018 1:37:20 AM com.company.Main main
+INFO: 25.6% --> 262144
+фев 21, 2018 1:41:20 AM com.company.Main main
+INFO: 27.200000000000003% --> 278528
+фев 21, 2018 1:45:31 AM com.company.Main main
+INFO: 28.8% --> 294912
+фев 21, 2018 1:49:54 AM com.company.Main main
+INFO: 30.400000000000002% --> 311296
+фев 21, 2018 1:54:28 AM com.company.Main main
+INFO: 32.0% --> 327680
+фев 21, 2018 1:59:13 AM com.company.Main main
+INFO: 33.6% --> 344064
+фев 21, 2018 2:04:10 AM com.company.Main main
+INFO: 35.2% --> 360448
+фев 21, 2018 2:09:18 AM com.company.Main main
+INFO: 36.800000000000004% --> 376832
+фев 21, 2018 2:14:37 AM com.company.Main main
+INFO: 38.400000000000006% --> 393216
+фев 21, 2018 2:20:24 AM com.company.Main main
+INFO: 40.0% --> 409600
+фев 21, 2018 2:26:34 AM com.company.Main main
+INFO: 41.6% --> 425984
+фев 21, 2018 2:32:54 AM com.company.Main main
+INFO: 43.2% --> 442368
+фев 21, 2018 2:39:27 AM com.company.Main main
+INFO: 44.800000000000004% --> 458752
+фев 21, 2018 2:46:11 AM com.company.Main main
+INFO: 46.400000000000006% --> 475136
+фев 21, 2018 2:53:07 AM com.company.Main main
+INFO: 48.0% --> 491520
+фев 21, 2018 3:00:16 AM com.company.Main main
+INFO: 49.6% --> 507904
+фев 21, 2018 3:07:37 AM com.company.Main main
+INFO: 51.2% --> 524288
+фев 21, 2018 3:15:10 AM com.company.Main main
+INFO: 52.800000000000004% --> 540672
+фев 21, 2018 3:22:55 AM com.company.Main main
+INFO: 54.400000000000006% --> 557056
+фев 21, 2018 3:30:53 AM com.company.Main main
+INFO: 56.0% --> 573440
+фев 21, 2018 3:39:03 AM com.company.Main main
+INFO: 57.6% --> 589824
+фев 21, 2018 3:47:24 AM com.company.Main main
+INFO: 59.2% --> 606208
+фев 21, 2018 3:55:59 AM com.company.Main main
+INFO: 60.800000000000004% --> 622592
+фев 21, 2018 4:04:45 AM com.company.Main main
+INFO: 62.400000000000006% --> 638976
+фев 21, 2018 4:13:43 AM com.company.Main main
+INFO: 64.0% --> 655360
+фев 21, 2018 4:22:54 AM com.company.Main main
+INFO: 65.60000000000001% --> 671744
+фев 21, 2018 4:32:17 AM com.company.Main main
+INFO: 67.2% --> 688128
+фев 21, 2018 4:41:51 AM com.company.Main main
+INFO: 68.8% --> 704512
+фев 21, 2018 4:51:38 AM com.company.Main main
+INFO: 70.4% --> 720896
+фев 21, 2018 5:01:36 AM com.company.Main main
+INFO: 72.0% --> 737280
+фев 21, 2018 5:11:46 AM com.company.Main main
+INFO: 73.60000000000001% --> 753664
+фев 21, 2018 5:22:09 AM com.company.Main main
+INFO: 75.2% --> 770048
+фев 21, 2018 5:32:44 AM com.company.Main main
+INFO: 76.80000000000001% --> 786432
+фев 21, 2018 5:43:49 AM com.company.Main main
+INFO: 78.4% --> 802816
+фев 21, 2018 5:55:05 AM com.company.Main main
+INFO: 80.0% --> 819200
+фев 21, 2018 6:06:35 AM com.company.Main main
+INFO: 81.60000000000001% --> 835584
+фев 21, 2018 6:18:15 AM com.company.Main main
+INFO: 83.2% --> 851968
+фев 21, 2018 6:30:09 AM com.company.Main main
+INFO: 84.80000000000001% --> 868352
+фев 21, 2018 6:42:14 AM com.company.Main main
+INFO: 86.4% --> 884736
+фев 21, 2018 6:54:32 AM com.company.Main main
+INFO: 88.0% --> 901120
+фев 21, 2018 7:07:03 AM com.company.Main main
+INFO: 89.60000000000001% --> 917504
+фев 21, 2018 7:19:46 AM com.company.Main main
+INFO: 91.2% --> 933888
+фев 21, 2018 7:32:41 AM com.company.Main main
+INFO: 92.80000000000001% --> 950272
+фев 21, 2018 7:45:52 AM com.company.Main main
+INFO: 94.4% --> 966656
+фев 21, 2018 7:59:02 AM com.company.Main main
+INFO: 96.0% --> 983040
+фев 21, 2018 8:12:07 AM com.company.Main main
+INFO: 97.60000000000001% --> 999424
+фев 21, 2018 8:25:26 AM com.company.Main main
+INFO: 99.2% --> 1015808
+фев 21, 2018 8:38:54 AM com.company.Main main
+INFO: 100.80000000000001% --> 1032192
+фев 21, 2018 8:53:54 AM com.company.Main main
+INFO: 100.80000000000001% --> 1048576
