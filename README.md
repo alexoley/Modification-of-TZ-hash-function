@@ -1,2 +1,2 @@
 # Modification-of-TZ-hash-function
-Tying to find collisions in modification of Tillich-Zemor hash function
+This instrument for finding collisions in modification of Tillich-Zemor hash function
